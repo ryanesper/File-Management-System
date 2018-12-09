@@ -1,0 +1,389 @@
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_instructor.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_mysubject.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_students.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_studentsfile.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_instructor.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_instructor.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_mysubject.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_mysubject.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_students.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_students.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_studentsfile.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_studentsfile.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_close.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_minimize.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_close.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_close.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_minimize.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_minimize.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_close.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\adminform_minimize.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_instructor.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_mysubject.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_students.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\admin_menubar_studentsfile.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT - Copy\bu\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\MySql.Data.DLL
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmyprofile.resources
+C:\Users\acer\Desktop\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmyprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+C:\Users\ryan\Desktop\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\ryan\Desktop\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktop\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktop\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmyprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmclosingconfirmation.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsfile.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdirectories.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\loginserver.dll
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\loginserver.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\loginserver.xml
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+D:\FMS\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdirectories.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+D:\FMS\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+D:\FMS\make installer\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\FMS\make installer\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\FMS\make installer\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\FMS\make installer\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdirectories.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+D:\Programming\VB.NET\FMS\With Deep Freeze\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.manifest
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).application
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).pdb
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).xml
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddstudents.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmaddsubjects.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmchangepassword.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdatabaseconnector.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmexplorer.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructorregistration.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frminstructors.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmlogin.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmmain.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmprofile.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmsettings.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudents.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmdirectories.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmstudentsregistration.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.frmupdateconfirmation.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File_Management_System__admin_.Resources.resources
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe.manifest
+D:\Programming\VB.NET\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).application
+D:\Programming\VB.NET\Systems\File Management System\File Management System\File Management System (admin)\File Management System (admin)\bin\Debug\File Management System (admin).exe.config
+D:\Programming\VB.NET\Systems\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).exe
+D:\Programming\VB.NET\Systems\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).xml
+D:\Programming\VB.NET\Systems\File Management System\File Management System\File Management System (admin)\File Management System (admin)\obj\Debug\File Management System (admin).pdb

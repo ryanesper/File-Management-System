@@ -1,0 +1,938 @@
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\File Management System.exe.config
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\File Management System.exe
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\File Management System.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\File Management System.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File Management System.exe
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File Management System.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File Management System.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\ClassLibrary1.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\delete.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\duplicate.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\folder.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\import.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\logout.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\newfolder.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\refresh.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\rename.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\search.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\settings.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\transfer.dll
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\ClassLibrary1.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\ClassLibrary1.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\delete.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\delete.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\duplicate.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\duplicate.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\folder.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\folder.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\import.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\import.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\logout.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\logout.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\newfolder.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\newfolder.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\refresh.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\refresh.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\rename.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\rename.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\search.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\search.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\settings.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\settings.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\transfer.pdb
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\bin\Debug\transfer.xml
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+c:\users\boss\documents\visual studio 2012\Projects\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginbutton.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginbutton.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginbutton.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginclose.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginminize.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginclose.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginclose.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginminize.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\loginminize.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_refresh.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_refresh.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_refresh.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_delete.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_details.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_delete.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_delete.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_details.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_details.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_newfolder.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_rename.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_transfer.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_newfolder.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_newfolder.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_rename.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_rename.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_transfer.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_transfer.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_exit.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_minimize.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_exit.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_exit.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_minimize.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_minimize.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back1.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back1.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\explorer_back1.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close1.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize1.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close1.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_close1.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize1.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_minimize1.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_copy.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_delete.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_details.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_export.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_file.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_folder.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_newfolder.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_profile.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_refresh.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_rename.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_search.dll
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_copy.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_copy.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_delete.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_delete.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_details.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_details.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_export.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_export.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_file.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_file.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_folder.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_folder.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_newfolder.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_newfolder.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_profile.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_profile.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_refresh.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_refresh.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_rename.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_rename.xml
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_search.pdb
+C:\Users\Boss\Documents\Visual Studio 2012\Projects\File Management System\File Management System\bin\Debug\user_main_search.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.pdb
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.xml
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\Boss\Desktop\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe.config
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.exe
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.pdb
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.xml
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+F:\ \CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\MySql.Data.DLL
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\ClassLibrary1.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\delete.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\duplicate.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_back1.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_delete.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_details.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_exit.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_minimize.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_newfolder.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_refresh.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_rename.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\explorer_transfer.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\folder.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\import.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginbutton.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginclose.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\loginminize.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\logout.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\newfolder.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\refresh.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\rename.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\search.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\settings.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\transfer.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_close1.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_copy.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_delete.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_details.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_export.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_file.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_folder.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_minimize1.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_newfolder.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_profile.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_refresh.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_rename.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\bin\Debug\user_main_search.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\bin\Debug\MySql.Data.DLL
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\bin\Debug\MySql.Data.DLL
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\acer\Desktop\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+C:\Users\acer\Desktop\experiment\1\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktop\File Management System\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\College Life\CAPSTONE PROJECT\CAPSTONE PROJECT\old FMS\fms\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\copy.dll
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.dll
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\details.dll
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.dll
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\copy.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\copy.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\details.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\details.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.dll
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\copy.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\copy.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\deleeete.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\deleeete.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\details.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\details.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\renamebutton.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\renamebutton.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\renameeeee.pdb
+C:\Users\joshua\Desktop\File Management System\File Management System\bin\Debug\renameeeee.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.Form1.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmfolderdetails.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\joshua\Desktop\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\copy.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\copy.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\deleeete.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\deleeete.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\details.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\details.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\renamebutton.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\renamebutton.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\renameeeee.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\renameeeee.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer2.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfolderdetails.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmprofile.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmregistration.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\export.dll
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\import1.dll
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\export.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\export.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\import1.pdb
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\bin\Debug\import1.xml
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexport.resources
+C:\Users\ryan\Desktop\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\export.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\export.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\import1.pdb
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\bin\Debug\import1.xml
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexport.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+C:\Users\ryan\Desktop\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\copy.dll
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.dll
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\details.dll
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.dll
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.dll
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\copy.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\copy.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\deleeete.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\details.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\details.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renamebutton.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.pdb
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\bin\Debug\renameeeee.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmexport.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\experiment\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\export.dll
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\import1.dll
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\export.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\export.xml
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\import1.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\bin\Debug\import1.xml
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+C:\Users\ryan\Desktopdf\FMS\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\File Management System.exe.config
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\copy.dll
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\deleeete.dll
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\details.dll
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renamebutton.dll
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renameeeee.dll
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\copy.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\copy.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\deleeete.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\deleeete.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\details.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\details.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renamebutton.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renamebutton.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renameeeee.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\bin\Debug\renameeeee.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File Management System.exe
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File Management System.xml
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File Management System.pdb
+C:\Users\ryan\Desktopdf\FMS\New folder\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+H:\FMS\File Management System\File Management System\bin\Debug\File Management System.exe.config
+H:\FMS\File Management System\File Management System\bin\Debug\File Management System.exe
+H:\FMS\File Management System\File Management System\bin\Debug\File Management System.pdb
+H:\FMS\File Management System\File Management System\bin\Debug\File Management System.xml
+H:\FMS\File Management System\File Management System\bin\Debug\copy.xml
+H:\FMS\File Management System\File Management System\bin\Debug\deleeete.xml
+H:\FMS\File Management System\File Management System\bin\Debug\details.xml
+H:\FMS\File Management System\File Management System\bin\Debug\renamebutton.xml
+H:\FMS\File Management System\File Management System\bin\Debug\renameeeee.xml
+H:\FMS\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+H:\FMS\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+H:\FMS\File Management System\File Management System\obj\Debug\File Management System.exe
+H:\FMS\File Management System\File Management System\obj\Debug\File Management System.xml
+H:\FMS\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\FMS\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\FMS\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\FMS\File Management System\File Management System\bin\Debug\copy.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\copy.xml
+D:\FMS\File Management System\File Management System\bin\Debug\deleeete.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\deleeete.xml
+D:\FMS\File Management System\File Management System\bin\Debug\details.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\details.xml
+D:\FMS\File Management System\File Management System\bin\Debug\renamebutton.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\renamebutton.xml
+D:\FMS\File Management System\File Management System\bin\Debug\renameeeee.pdb
+D:\FMS\File Management System\File Management System\bin\Debug\renameeeee.xml
+D:\FMS\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\FMS\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\FMS\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\FMS\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\FMS\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\FMS\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\FMS\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\FMS\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\FMS\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.ResolveComReference.cache
+D:\FMS\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.ResolveComReference.cache
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\FMS\make installer\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.ResolveComReference.cache
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.xml
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.ResolveComReference.cache
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\Programming\VB.NET\FMS\With Deep Freeze\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.ResolveComReference.cache
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmchangepassword.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmcopyandpaste.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmexplorer.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmimport.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfiledetails.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmdatabaseconnector.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogin.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmlogout.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmain.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmmyprofile.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmrunningapplication.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmsplashscreen.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmupdateconfirmation.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.Resources.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File_Management_System.frmfilenavigator.resources
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.exe
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.xml
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\obj\Debug\File Management System.pdb
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe.config
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.exe
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.pdb
+D:\Programming\VB.NET\Systems\File Management System\File Management System\FMS (client)\File Management System\File Management System\bin\Debug\File Management System.xml

@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5DEA71AE-953F-4DA0-A9C4-799C545B3634}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>File_Management_System__admin_.My.MyApplication</StartupObject>
+    <RootNamespace>File_Management_System__admin_</RootNamespace>
+    <AssemblyName>File Management System %28admin%29</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Boss\Desktop\executable\admin exe 2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>File Management System %28admin%29.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>File Management System %28admin%29.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5CF30FCEF587BE7AEC58CBE6321995171CFF05FA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>File Management System %28admin%29_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adminform_close">
+      <HintPath>..\..\adminform_close\adminform_close\bin\Debug\adminform_close.dll</HintPath>
+    </Reference>
+    <Reference Include="adminform_minimize">
+      <HintPath>..\..\adminform_minimize\adminform_minimize\bin\Debug\adminform_minimize.dll</HintPath>
+    </Reference>
+    <Reference Include="admin_menubar_instructor">
+      <HintPath>..\..\admin_menubar_instructor\admin_menubar_instructor\bin\Debug\admin_menubar_instructor.dll</HintPath>
+    </Reference>
+    <Reference Include="admin_menubar_mysubject">
+      <HintPath>..\..\admin_menubar_mysubject\admin_menubar_mysubject\bin\Debug\admin_menubar_mysubject.dll</HintPath>
+    </Reference>
+    <Reference Include="admin_menubar_students">
+      <HintPath>..\..\admin_menubar_students\admin_menubar_students\bin\Debug\admin_menubar_students.dll</HintPath>
+    </Reference>
+    <Reference Include="admin_menubar_studentsfile">
+      <HintPath>..\..\admin_menubar_studentsfile\admin_menubar_studentsfile\bin\Debug\admin_menubar_studentsfile.dll</HintPath>
+    </Reference>
+    <Reference Include="loginserver">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2012\Projects\loginserver\loginserver\bin\Debug\loginserver.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>C:\Users\acer\Desktop\installer\connector\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmchangepassword.Designer.vb">
+      <DependentUpon>frmchangepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchangepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdatabaseconnector.Designer.vb">
+      <DependentUpon>frmdatabaseconnector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdatabaseconnector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaddstudents.Designer.vb">
+      <DependentUpon>frmaddstudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmaddstudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmaddsubjects.Designer.vb">
+      <DependentUpon>frmaddsubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmaddsubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmexplorer.Designer.vb">
+      <DependentUpon>frmexplorer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmexplorer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminstructorregistration.Designer.vb">
+      <DependentUpon>frminstructorregistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frminstructorregistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminstructors.Designer.vb">
+      <DependentUpon>frminstructors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frminstructors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.Designer.vb">
+      <DependentUpon>frmmain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprofile.Designer.vb">
+      <DependentUpon>frmprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsettings.Designer.vb">
+      <DependentUpon>frmsettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstudents.Designer.vb">
+      <DependentUpon>frmstudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmstudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdirectories.Designer.vb">
+      <DependentUpon>frmdirectories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdirectories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstudentsregistration.Designer.vb">
+      <DependentUpon>frmstudentsregistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmstudentsregistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmupdateconfirmation.Designer.vb">
+      <DependentUpon>frmupdateconfirmation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmupdateconfirmation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globalconnection.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmaddstudents.resx">
+      <DependentUpon>frmaddstudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmaddsubjects.resx">
+      <DependentUpon>frmaddsubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchangepassword.resx">
+      <DependentUpon>frmchangepassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdatabaseconnector.resx">
+      <DependentUpon>frmdatabaseconnector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmexplorer.resx">
+      <DependentUpon>frmexplorer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminstructorregistration.resx">
+      <DependentUpon>frminstructorregistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminstructors.resx">
+      <DependentUpon>frminstructors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain.resx">
+      <DependentUpon>frmmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmprofile.resx">
+      <DependentUpon>frmprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsettings.resx">
+      <DependentUpon>frmsettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstudents.resx">
+      <DependentUpon>frmstudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdirectories.resx">
+      <DependentUpon>frmdirectories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstudentsregistration.resx">
+      <DependentUpon>frmstudentsregistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmupdateconfirmation.resx">
+      <DependentUpon>frmupdateconfirmation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="File Management System %28admin%29_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mysubject.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin_main_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructors.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\students.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentsfile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frmaddsubject.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frmregistration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foldericon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminmyprofile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normi logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminmyprofile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminmyprofile2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login forn %28server%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97CC3748-E787-4570-A670-64124990D584}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>File_Management_System.My.MyApplication</StartupObject>
+    <RootNamespace>File_Management_System</RootNamespace>
+    <AssemblyName>File Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>File Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>File Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="copy">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2012\Projects\copy\copy\bin\Debug\copy.dll</HintPath>
+    </Reference>
+    <Reference Include="deleeete">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2012\Projects\deleeete\deleeete\bin\Debug\deleeete.dll</HintPath>
+    </Reference>
+    <Reference Include="delete">
+      <HintPath>..\..\delete\delete\bin\Debug\delete.dll</HintPath>
+    </Reference>
+    <Reference Include="details">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2012\Projects\details\details\bin\Debug\details.dll</HintPath>
+    </Reference>
+    <Reference Include="duplicate">
+      <HintPath>..\..\duplicate\duplicate\bin\Debug\duplicate.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_back">
+      <HintPath>..\..\explorer_back\explorer_back\bin\Debug\explorer_back.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_back1">
+      <HintPath>..\..\explorer_back1\explorer_back1\bin\Debug\explorer_back1.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_delete">
+      <HintPath>..\..\explorer_delete\explorer_delete\bin\Debug\explorer_delete.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_details">
+      <HintPath>..\..\explorer_details\explorer_details\bin\Debug\explorer_details.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_exit">
+      <HintPath>..\..\explorer_exit\explorer_exit\bin\Debug\explorer_exit.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_minimize">
+      <HintPath>..\..\explorer_minimize\explorer_minimize\bin\Debug\explorer_minimize.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_newfolder">
+      <HintPath>..\..\explorer_newfolder\explorer_newfolder\bin\Debug\explorer_newfolder.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_refresh">
+      <HintPath>..\..\explorer_refresh\explorer_refresh\bin\Debug\explorer_refresh.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_rename">
+      <HintPath>..\..\explorer_rename\explorer_rename\bin\Debug\explorer_rename.dll</HintPath>
+    </Reference>
+    <Reference Include="explorer_transfer">
+      <HintPath>..\..\explorer_transfer\explorer_transfer\bin\Debug\explorer_transfer.dll</HintPath>
+    </Reference>
+    <Reference Include="export">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2012\Projects\export\export\bin\Debug\export.dll</HintPath>
+    </Reference>
+    <Reference Include="folder">
+      <HintPath>..\..\folder\folder\bin\Debug\folder.dll</HintPath>
+    </Reference>
+    <Reference Include="import">
+      <HintPath>..\..\import\import\bin\Debug\import.dll</HintPath>
+    </Reference>
+    <Reference Include="import1">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2012\Projects\import1\import1\bin\Debug\import1.dll</HintPath>
+    </Reference>
+    <Reference Include="loginbutton">
+      <HintPath>..\..\loginbutton\loginbutton\bin\Debug\loginbutton.dll</HintPath>
+    </Reference>
+    <Reference Include="loginclose">
+      <HintPath>..\..\loginclose\loginclose\bin\Debug\loginclose.dll</HintPath>
+    </Reference>
+    <Reference Include="loginminize">
+      <HintPath>..\..\loginminize\loginminize\bin\Debug\loginminize.dll</HintPath>
+    </Reference>
+    <Reference Include="logout">
+      <HintPath>..\..\logout\logout\bin\Debug\logout.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>C:\Users\acer\Desktop\installer\connector\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="newfolder">
+      <HintPath>..\..\newfolder\newfolder\bin\Debug\newfolder.dll</HintPath>
+    </Reference>
+    <Reference Include="refresh">
+      <HintPath>..\..\refresh\refresh\bin\Debug\refresh.dll</HintPath>
+    </Reference>
+    <Reference Include="rename">
+      <HintPath>..\..\rename\rename\bin\Debug\rename.dll</HintPath>
+    </Reference>
+    <Reference Include="renamebutton">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2012\Projects\renamebutton\renamebutton\bin\Debug\renamebutton.dll</HintPath>
+    </Reference>
+    <Reference Include="renameeeee">
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2012\Projects\renameeeee\renameeeee\bin\Debug\renameeeee.dll</HintPath>
+    </Reference>
+    <Reference Include="search">
+      <HintPath>..\..\search\search\bin\Debug\search.dll</HintPath>
+    </Reference>
+    <Reference Include="settings">
+      <HintPath>..\..\settings\settings\bin\Debug\settings.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="transfer">
+      <HintPath>..\..\transfer\transfer\bin\Debug\transfer.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_close">
+      <HintPath>..\..\user_main_close\user_main_close\bin\Debug\user_main_close.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_close1">
+      <HintPath>..\..\user_main_close1\user_main_close1\bin\Debug\user_main_close1.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_copy">
+      <HintPath>..\..\user_main_copy\user_main_copy\bin\Debug\user_main_copy.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_delete">
+      <HintPath>..\..\user_main_delete\user_main_delete\bin\Debug\user_main_delete.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_details">
+      <HintPath>..\..\user_main_details\user_main_details\bin\Debug\user_main_details.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_export">
+      <HintPath>..\..\user_main_export\user_main_export\bin\Debug\user_main_export.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_file">
+      <HintPath>..\..\user_main_file\user_main_file\bin\Debug\user_main_file.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_folder">
+      <HintPath>..\..\user_main_folder\user_main_folder\bin\Debug\user_main_folder.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_minimize">
+      <HintPath>..\..\user_main_minimize\user_main_minimize\bin\Debug\user_main_minimize.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_minimize1">
+      <HintPath>..\..\user_main_minimize1\user_main_minimize1\bin\Debug\user_main_minimize1.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_newfolder">
+      <HintPath>..\..\user_main_newfolder\user_main_newfolder\bin\Debug\user_main_newfolder.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_profile">
+      <HintPath>..\..\user_main_profile\user_main_profile\bin\Debug\user_main_profile.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_refresh">
+      <HintPath>..\..\user_main_refresh\user_main_refresh\bin\Debug\user_main_refresh.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_rename">
+      <HintPath>..\..\user_main_rename\user_main_rename\bin\Debug\user_main_rename.dll</HintPath>
+    </Reference>
+    <Reference Include="user_main_search">
+      <HintPath>..\..\user_main_search\user_main_search\bin\Debug\user_main_search.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmchangepassword.Designer.vb">
+      <DependentUpon>frmchangepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchangepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcopyandpaste.Designer.vb">
+      <DependentUpon>frmcopyandpaste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcopyandpaste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmexplorer.Designer.vb">
+      <DependentUpon>frmexplorer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmexplorer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmimport.Designer.vb">
+      <DependentUpon>frmimport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmimport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfiledetails.Designer.vb">
+      <DependentUpon>frmfiledetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmfiledetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdatabaseconnector.Designer.vb">
+      <DependentUpon>frmdatabaseconnector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdatabaseconnector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogout.Designer.vb">
+      <DependentUpon>frmlogout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.Designer.vb">
+      <DependentUpon>frmmain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmyprofile.Designer.vb">
+      <DependentUpon>frmmyprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmyprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrunningapplication.Designer.vb">
+      <DependentUpon>frmrunningapplication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrunningapplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplashscreen.Designer.vb">
+      <DependentUpon>frmsplashscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsplashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmupdateconfirmation.Designer.vb">
+      <DependentUpon>frmupdateconfirmation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmupdateconfirmation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globalconnector.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmfilenavigator.Designer.vb">
+      <DependentUpon>frmfilenavigator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmfilenavigator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmchangepassword.resx">
+      <DependentUpon>frmchangepassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcopyandpaste.resx">
+      <DependentUpon>frmcopyandpaste.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmexplorer.resx">
+      <DependentUpon>frmexplorer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmimport.resx">
+      <DependentUpon>frmimport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfiledetails.resx">
+      <DependentUpon>frmfiledetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdatabaseconnector.resx">
+      <DependentUpon>frmdatabaseconnector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogout.resx">
+      <DependentUpon>frmlogout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain.resx">
+      <DependentUpon>frmmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmyprofile.resx">
+      <DependentUpon>frmmyprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrunningapplication.resx">
+      <DependentUpon>frmrunningapplication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsplashscreen.resx">
+      <DependentUpon>frmsplashscreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmupdateconfirmation.resx">
+      <DependentUpon>frmupdateconfirmation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfilenavigator.resx">
+      <DependentUpon>frmfilenavigator.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6988410-art-abstract-black-wallpapers-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6988410-art-abstract-black-wallpapers-background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\398748889-plain-black-background-hd-wallpapers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explorerbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elbg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explorer_sad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frmregistration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normi logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRY LANG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRY LANG21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRY LANG22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRY LANG23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totalfilesfolders.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteeye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downloadwhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lvbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login forn %28client%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login forn %28client%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
